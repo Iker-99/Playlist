@@ -8,7 +8,7 @@
            <visitas>37 Millones</visitas>
            <dinero_generado>40,000€</dinero_generado>
        </canciones>
-       <cantante genero="Pop" top_ventas="2" imagen="Projecte/Imagenes/Melendi.png">
+       <cantante genero="Pop" top_ventas="2" imagen="Imagenes/Melendi.png">
            <nombre>Melendi</nombre>
            <edad>45</edad>
            <discos>12</discos>
@@ -20,7 +20,7 @@
             <visitas>12 Millones</visitas>
             <dinero_generado>22,000€</dinero_generado>
         </canciones>
-        <cantante genero="Rock_transgresivo" top_ventas="3" imagen="Projecte/Imagenes/Robe.jpg">
+        <cantante genero="Rock_transgresivo" top_ventas="3" imagen="Imagenes/Robe.jpg">
             <nombre>Extremoduro</nombre>
             <edad>62</edad>
             <discos>12</discos>
@@ -32,7 +32,7 @@
             <visitas>70 Millones</visitas>
             <dinero_generado>76,000€</dinero_generado>
         </canciones>
-        <cantante genero="Rumba" top_ventas="1" imagen="Projecte/Imagenes/Estopa.png">
+        <cantante genero="Rumba" top_ventas="1" imagen="Imagenes/Estopa.png">
             <nombre>Estopa</nombre>
             <edad>45</edad>
             <discos>11</discos>
@@ -44,7 +44,7 @@
             <visitas>2,6 Millones</visitas>
             <dinero_generado>3,600€</dinero_generado>
         </canciones>
-        <cantante genero="Rock" top_ventas="4" imagen="Projecte/Imagenes/Fito.png">
+        <cantante genero="Rock" top_ventas="4" imagen="Imagenes/Fito.png">
             <nombre>Fito</nombre>
             <edad>58</edad>
             <discos>7</discos>
@@ -56,7 +56,7 @@
             <visitas>1,5 Millones</visitas>
             <dinero_generado>1,500€</dinero_generado>
         </canciones>
-        <cantante genero="Pop" top_ventas="5" imagen="Projecte/Imagenes/Joaquin.png">
+        <cantante genero="Pop" top_ventas="5" imagen="Imagenes/Joaquin.png">
             <nombre>Joaquin sabina</nombre>
             <edad>75</edad>
             <discos>18</discos>
