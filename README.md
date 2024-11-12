@@ -1,25 +1,48 @@
 # Playlist
 ### **Sobre el projecto**
-El projecto trata sobre una aplicación la cual te dice las canciones que mas has escuchado este mes tu como usuario.
+El projecte tractara sobre una aplicació la cual et diu les cançons que mes has escoltat este mes tu como usuari.
 
-### **Explicación dtd**
-1. <?xml version="1.0" encoding="UTF-8"?>
-    Primero ponemos la version que queremos
-2. <!ELEMENT Canciones_mas_escuchadas (orden)+>
-    Despues creo la variable "Canciones_mas_escuchadas" donde y dentro de esta variable creo la variable "orden" con un + para que puedan haber mas de un "orden".
-3. <!ELEMENT orden (canciones, cantante)+>
-    Ahora en la variable orden "creadom canciones" y "cantante" junto a un + para que haya mas de uno.
-4. <!ELEMENT canciones (nombrec, visitas, comentarios*, dinero_generado)+>
-    Ahora creamos dentro de canciones los campos que va a tener y en c
-5. A
-6. A
-7. A
-8. A
-9. A
-10. A
-11. A
-12. A
-13. 
+### **Explicació dtd**
+1. ?xml version="1.0" encoding="UTF-8"?
+   
+    Primer fiquem la versió que volem.
+3. !ELEMENT Canciones_mas_escuchadas (orden)+
+   
+    Despres cree el "ELEMET" "Canciones_mas_escuchadas" on dins d'esta variable cree la variable "orden" amb un + perquè puguen haver-hi mes d'un "orden".
+4. !ELEMENT orden (canciones, cantante)+
+
+     Ara en la variable orden creem "cançons" i "cantant" al costat d'un + perquè hi haja mes d'un.
+5. !ELEMENT canciones (nombrec, visitas, comentarios*, dinero_generado)+
+
+    Ara creem dins de cançons els camps que tindrà i en "comentaris" un * per a poder tindre mes d'un comentari.
+6. !ATTLIST canciones favorita (Si|No) #REQUIRED
+   
+     Así creem un "ATTLIST" on l'usuari decidix si la cançó és de les seues favorites o no.
+8. !ELEMENT nombrec (#PCDATA)
+
+    Creem el element de abans "nombrec" i li fiquem "#PCDATA" per a ficar dins el que 
+9. <!ELEMENT visitas (#PCDATA)>
+
+10. <!ELEMENT comentarios (#PCDATA)>
+
+11. <!ELEMENT dinero_generado (#PCDATA)>
+
+12. <!ELEMENT cantante (nombre, edad, discos, premios? )>
+
+13. <!ATTLIST cantante genero (Pop|Rock|Jazz|Blues|Rock_transgresivo|Rumba) #REQUIRED>
+
+14. <!ATTLIST cantante imagen CDATA #REQUIRED>
+
+15. <!ATTLIST cantante top_ventas ID #REQUIRED>
+
+16. <!ELEMENT nombre (#PCDATA)>
+
+17. <!ELEMENT edad (#PCDATA)>
+
+18. <!ELEMENT discos (#PCDATA)>
+
+19. <!ELEMENT premios (#PCDATA)>
+
 
 ### **Explicación xml**
 
