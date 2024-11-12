@@ -1,0 +1,21 @@
+SYSTEM
+<?xml version="1.0" encoding="UTF-8"?>
+    <!ELEMENT Canciones_mas_escuchadas (orden)+>
+        <!ELEMENT orden (canciones, cantante)+>
+
+            <!ELEMENT canciones (nombrec, visitas, comentarios*, dinero_generado)+>
+            <!ATTLIST canciones favorita (Si|No) #REQUIRED>
+            <!ELEMENT nombrec (#PCDATA)>
+            <!ELEMENT visitas (#PCDATA)>
+            <!ELEMENT comentarios (#PCDATA)>
+            <!ELEMENT dinero_generado (#PCDATA)>
+
+            <!ELEMENT cantante (nombre, edad, discos, premios? )>
+            <!ATTLIST cantante genero (Pop|Rock|Jazz|Blues|Rock_transgresivo|Rumba) #REQUIRED>
+            <!ATTLIST cantante imagen #PCDATA>
+            <!ATTLIST cantante top_ventas ID #REQUIRED>
+            <!ELEMENT nombre (#PCDATA)>
+            <!ELEMENT edad (#PCDATA)>
+            <!ELEMENT discos (#PCDATA)>
+            <!ELEMENT premios (#PCDATA)>
+
