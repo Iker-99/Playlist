@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Canciones_mas_escuchadas SYSTEM "Projecte/Playlist.dtd">
+
+<Canciones_mas_escuchadas>
+   <orden>
+       <canciones favorita="Si">
+           <nombrec> Caminando Por La Vida</nombrec>
+           <visitas>37 Millones</visitas>
+           <dinero_generado>40,000€</dinero_generado>
+       </canciones>
+       <cantante genero="Pop" top_ventas="2">
+           <nombre>Melendi</nombre>
+           <edad>45</edad>
+           <discos>12</discos>
+       </cantante>
+   </orden>
+    <orden>
+        <canciones favorita="Si">
+            <nombrec> Tango suicida</nombrec>
+            <visitas>12 Millones</visitas>
+            <dinero_generado>22,000€</dinero_generado>
+        </canciones>
+        <cantante genero="Rock_transgresivo" top_ventas="3">
+            <nombre>Extremoduro</nombre>
+            <edad>62</edad>
+            <discos>12</discos>
+        </cantante>
+    </orden>
+    <orden>
+        <canciones favorita="No">
+            <nombrec>Vino tinto</nombrec>
+            <visitas>70 Millones</visitas>
+            <dinero_generado>76,000€</dinero_generado>
+        </canciones>
+        <cantante genero="Rumba" top_ventas="1">
+            <nombre>Estopa</nombre>
+            <edad>45</edad>
+            <discos>11</discos>
+        </cantante>
+    </orden>
+    <orden>
+        <canciones favorita="No">
+            <nombrec>Trozos De Cristal</nombrec>
+            <visitas>2,6 Millones</visitas>
+            <dinero_generado>3,600€</dinero_generado>
+        </canciones>
+        <cantante genero="Rock" top_ventas="4">
+            <nombre>Fito</nombre>
+            <edad>58</edad>
+            <discos>7</discos>
+        </cantante>
+    </orden>
+    <orden>
+        <canciones favorita="Si">
+            <nombrec> La Canción Más Hermosa del Mundo</nombrec>
+            <visitas>1,5 Millones</visitas>
+            <dinero_generado>1,500€</dinero_generado>
+        </canciones>
+        <cantante genero="Pop" top_ventas="5">
+            <nombre>Joaquin sabina</nombre>
+            <edad>75</edad>
+            <discos>18</discos>
+        </cantante>
+    </orden>
+</Canciones_mas_escuchadas>
