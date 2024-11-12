@@ -6,6 +6,7 @@
        <canciones favorita="Si">
            <nombrec> Caminando Por La Vida</nombrec>
            <visitas>37 Millones</visitas>
+           <comentarios>Una cancion muy buena relajante pero divertida</comentarios>
            <dinero_generado>40,000€</dinero_generado>
        </canciones>
        <cantante genero="Pop" top_ventas="2" imagen="Imagenes/Melendi.png">
@@ -18,6 +19,7 @@
         <canciones favorita="Si">
             <nombrec> Tango suicida</nombrec>
             <visitas>12 Millones</visitas>
+            <comentarios>Me a tocado el corazon es muy bonita</comentarios>
             <dinero_generado>22,000€</dinero_generado>
         </canciones>
         <cantante genero="Rock_transgresivo" top_ventas="3" imagen="Imagenes/Robe.jpg">
@@ -42,6 +44,8 @@
         <canciones favorita="No">
             <nombrec>Trozos De Cristal</nombrec>
             <visitas>2,6 Millones</visitas>
+            <comentarios>Muy entretenida</comentarios>
+            <comentarios>La version de fito solo es la mejor</comentarios>
             <dinero_generado>3,600€</dinero_generado>
         </canciones>
         <cantante genero="Rock" top_ventas="4" imagen="Imagenes/Fito.png">
@@ -54,6 +58,7 @@
         <canciones favorita="Si">
             <nombrec> La Canción Más Hermosa del Mundo</nombrec>
             <visitas>1,5 Millones</visitas>
+            <comentarios>Sin palabras</comentarios>
             <dinero_generado>1,500€</dinero_generado>
         </canciones>
         <cantante genero="Pop" top_ventas="5" imagen="Imagenes/Joaquin.png">
