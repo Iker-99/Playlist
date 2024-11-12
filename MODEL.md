@@ -56,4 +56,59 @@ El projecte tractara sobre una aplicació la cual et diu les cançons que mes ha
     Creem el element de abans "premios" i li fiquem "#PCDATA" per a ficar dins el que vulguem. 
 
 ### **Explicación xml**
+Per a explicar el xml he agafat el 1 exemple que es el de Melendi.
+
+1. ?xml version="1.0" encoding="UTF-8"?
+
+   Primer fiquem la versió.
+2. !DOCTYPE Canciones_mas_escuchadas SYSTEM "Projecte/Playlist.dtd"
+
+   Ara fiquem "!DOCTYPE" per a referirnos a "Canciones_mas_escuchadas" que es como se llama el primer elemento de nuestro dtd fiquem SYSTEM i on es troba el nostra dtd, tot aso es per a enllaçar el dtd amb el xml.
+3. Canciones_mas_escuchadas
+   
+   Aci obrim l'element "Canciones_mas_escuchadas" 
+4. orden
+
+   I ya dins obrim l'element "orden".
+5. canciones favorita="Si"
+
+   Ara obrim "canciones" i dins de l'element "" 
+6. nombrec> Caminando Por La Vida</nombrec
+
+    
+7. visitas>37 Millones</visitas
+
+   
+8. comentarios>Una cancion muy buena relajante pero divertida</comentarios
+
+    
+9. dinero_generado>40,000€</dinero_generado
+    
+10. </canciones
+    
+11. cantante genero="Pop" top_ventas="2" imagen="Imagenes/Melendi.png"
+    
+12. nombre>Melendi</nombre
+
+    
+13. edad>45</edad
+
+    
+14. discos>12</discos
+
+    
+15. premios>2 discos de oro y 9 discos platino</premios
+
+    
+16. </cantante
+
+    
+17. </orden
+
+    
+18. </Canciones_mas_escuchadas
+
+    
+
+Primer fiquem la versió.
 
