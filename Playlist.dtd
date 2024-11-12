@@ -12,7 +12,7 @@ SYSTEM
 
             <!ELEMENT cantante (nombre, edad, discos, premios? )>
             <!ATTLIST cantante genero (Pop|Rock|Jazz|Blues|Rock_transgresivo|Rumba) #REQUIRED>
-            <!ATTLIST cantante imagen #PCDATA>
+            <!ATTLIST cantante imagen CDATA #REQUIRED>
             <!ATTLIST cantante top_ventas ID #REQUIRED>
             <!ELEMENT nombre (#PCDATA)>
             <!ELEMENT edad (#PCDATA)>
