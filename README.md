@@ -20,28 +20,32 @@ El projecte tractara sobre una aplicació la cual et diu les cançons que mes ha
      Así creem un "ATTLIST" on l'usuari decidix si la cançó és de les seues favorites o no.
 8. !ELEMENT nombrec (#PCDATA)
 
-    Creem el element de abans "nombrec" i li fiquem "#PCDATA" per a ficar dins el que 
-9. <!ELEMENT visitas (#PCDATA)>
+    Creem el element de abans "nombrec" i li fiquem "#PCDATA" per a ficar dins el que vulguem
+9. !ELEMENT visitas (#PCDATA)
 
-10. <!ELEMENT comentarios (#PCDATA)>
+   Creem el element de abans "visitas" i li fiquem "#PCDATA" per a ficar dins el que vulguem
+10. !ELEMENT comentarios (#PCDATA)
 
-11. <!ELEMENT dinero_generado (#PCDATA)>
+    Creem el element de abans "comentari" i li fiquem "#PCDATA" per a ficar dins el que vulguem
+11. !ELEMENT dinero_generado (#PCDATA)
 
-12. <!ELEMENT cantante (nombre, edad, discos, premios? )>
+    Creem el element de abans "dinero_generado" i li fiquem "#PCDATA" per a ficar dins el que vulguem
+12. !ELEMENT cantante (nombre, edad, discos, premios? )
 
-13. <!ATTLIST cantante genero (Pop|Rock|Jazz|Blues|Rock_transgresivo|Rumba) #REQUIRED>
+    Vale ara si en "cantante" ficarem els elements que despues crearem i en "premios" ficarem ? perque no es obligatori que tingen
+13. !ATTLIST cantante genero (Pop|Rock|Jazz|Blues|Rock_transgresivo|Rumba) #REQUIRED
 
-14. <!ATTLIST cantante imagen CDATA #REQUIRED>
+14. !ATTLIST cantante imagen CDATA #REQUIRED
 
-15. <!ATTLIST cantante top_ventas ID #REQUIRED>
+15. !ATTLIST cantante top_ventas ID #REQUIRED
 
-16. <!ELEMENT nombre (#PCDATA)>
+16. !ELEMENT nombre (#PCDATA)
 
-17. <!ELEMENT edad (#PCDATA)>
+17. !ELEMENT edad (#PCDATA)
 
-18. <!ELEMENT discos (#PCDATA)>
+18. !ELEMENT discos (#PCDATA)
 
-19. <!ELEMENT premios (#PCDATA)>
+19. !ELEMENT premios (#PCDATA)
 
 
 ### **Explicación xml**
