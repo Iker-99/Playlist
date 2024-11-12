@@ -90,28 +90,25 @@ Per a explicar el xml he agafat el 1 exemple que es el de Melendi.
     Asi es tanca el element "canciones".
 11. cantante genero="Pop" top_ventas="2" imagen="Imagenes/Melendi.png"
 
-    Asi obrim el element "cantante" i els seus "ATTLIST" com "genero" que en aquest cas es Pop "top_ventas" que es referix a que es el 2 que mes a ven
+    Asi obrim el element "cantante" i els seus "ATTLIST" com "genero" que en aquest cas es Pop "top_ventas" que es referix a que es el 2 que mes a venut de la llista dels teus preferits i per ultim una imatge del       cantant.
 12. nombre>Melendi</nombre
 
-    
+    Asi obrim el element nom i fiquem el nom.
 13. edad>45</edad
 
-    
+    Fiquem l'edat.
 14. discos>12</discos
 
-    
+    Fiquem els discos que te. 
 15. premios>2 discos de oro y 9 discos platino</premios
 
-    
+    Fiquem els premis.
 16. </cantante
 
-    
+    Tanquem l'element "cantante".
 17. </orden
-
-    
+      
+    El mateix amb "orden"
 18. </Canciones_mas_escuchadas
 
-    
-
-Primer fiquem la versió.
-
+    I por ultim per a aquest exemple tanquem "Canciones_mas_escuchadas"  
