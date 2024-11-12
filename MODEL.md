@@ -72,10 +72,10 @@ Per a explicar el xml he agafat el 1 exemple que es el de Melendi.
    I ya dins obrim l'element "orden".
 5. canciones favorita="Si"
 
-   Ara obrim "canciones" i dins de l'element "" 
+   Ara obrim "canciones" i dins esta l'element que hem creat que es "favorita" i en aquest cas si que es favorita. 
 6. nombrec> Caminando Por La Vida</nombrec
 
-    
+   Asi obrim nom i escribim el nom de la canço. 
 7. visitas>37 Millones</visitas
 
    
