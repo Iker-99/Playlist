@@ -13,6 +13,7 @@
            <nombre>Melendi</nombre>
            <edad>45</edad>
            <discos>12</discos>
+           <premios>2 discos de oro y 9 discos platino</premios>
        </cantante>
    </orden>
     <orden>
@@ -26,6 +27,7 @@
             <nombre>Extremoduro</nombre>
             <edad>62</edad>
             <discos>12</discos>
+            <premios>3 disco de oro y 5 de platino</premios>
         </cantante>
     </orden>
     <orden>
@@ -38,6 +40,7 @@
             <nombre>Estopa</nombre>
             <edad>45</edad>
             <discos>11</discos>
+            <premios>4 discos de oro y 7 de platino</premios>
         </cantante>
     </orden>
     <orden>
@@ -52,6 +55,7 @@
             <nombre>Fito</nombre>
             <edad>58</edad>
             <discos>7</discos>
+            <premios>3 discos de oro y 5 de platino</premios>
         </cantante>
     </orden>
     <orden>
@@ -65,6 +69,7 @@
             <nombre>Joaquin sabina</nombre>
             <edad>75</edad>
             <discos>18</discos>
+            <premios>5 discos de oro y 3 de platino</premios>
         </cantante>
     </orden>
 </Canciones_mas_escuchadas>
