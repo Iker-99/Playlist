@@ -9,7 +9,7 @@
            <comentarios>Una cancion muy buena relajante pero divertida</comentarios>
            <dinero_generado>40,000€</dinero_generado>
        </canciones>
-       <cantante genero="Pop" top_ventas="2" imagen="Imagenes/Melendi.png">
+       <cantante genero="Pop" top_ventas="t2" imagen="Imagenes/Melendi.png">
            <nombre>Melendi</nombre>
            <edad>45</edad>
            <discos>12</discos>
@@ -23,7 +23,7 @@
             <comentarios>Me a tocado el corazon es muy bonita</comentarios>
             <dinero_generado>22,000€</dinero_generado>
         </canciones>
-        <cantante genero="Rock_transgresivo" top_ventas="3" imagen="Imagenes/Robe.jpg">
+        <cantante genero="Rock_transgresivo" top_ventas="t3" imagen="Imagenes/Robe.jpg">
             <nombre>Extremoduro</nombre>
             <edad>62</edad>
             <discos>12</discos>
@@ -36,7 +36,7 @@
             <visitas>70 Millones</visitas>
             <dinero_generado>76,000€</dinero_generado>
         </canciones>
-        <cantante genero="Rumba" top_ventas="1" imagen="Imagenes/Estopa.png">
+        <cantante genero="Rumba" top_ventas="t1" imagen="Imagenes/Estopa.png">
             <nombre>Estopa</nombre>
             <edad>45</edad>
             <discos>11</discos>
@@ -51,7 +51,7 @@
             <comentarios>La version de fito solo es la mejor</comentarios>
             <dinero_generado>3,600€</dinero_generado>
         </canciones>
-        <cantante genero="Rock" top_ventas="4" imagen="Imagenes/Fito.png">
+        <cantante genero="Rock" top_ventas="t4" imagen="Imagenes/Fito.png">
             <nombre>Fito</nombre>
             <edad>58</edad>
             <discos>7</discos>
@@ -65,7 +65,7 @@
             <comentarios>Sin palabras</comentarios>
             <dinero_generado>1,500€</dinero_generado>
         </canciones>
-        <cantante genero="Pop" top_ventas="5" imagen="Imagenes/Joaquin.png">
+        <cantante genero="Pop" top_ventas="t5" imagen="Imagenes/Joaquin.png">
             <nombre>Joaquin sabina</nombre>
             <edad>75</edad>
             <discos>18</discos>
