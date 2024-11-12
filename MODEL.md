@@ -78,16 +78,19 @@ Per a explicar el xml he agafat el 1 exemple que es el de Melendi.
    Asi obrim nom i escribim el nom de la canço. 
 7. visitas>37 Millones</visitas
 
-   
+   Asi obrim les visites i escribim el numero de visites de la canço. 
 8. comentarios>Una cancion muy buena relajante pero divertida</comentarios
 
-    
+   Asi obrim els comentaris i escribim el comentari en este cas, podem ficar mes o 0. 
 9. dinero_generado>40,000€</dinero_generado
-    
+
+   Asi obrim els diner generats i escribim la cifra.  
 10. </canciones
-    
+
+    Asi es tanca el element "canciones".
 11. cantante genero="Pop" top_ventas="2" imagen="Imagenes/Melendi.png"
-    
+
+    Asi obrim el element "cantante" i els seus "ATTLIST" com "genero" que en aquest cas es Pop "top_ventas" que es referix a que es el 2 que mes a ven
 12. nombre>Melendi</nombre
 
     
